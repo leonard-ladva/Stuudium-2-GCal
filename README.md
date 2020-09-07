@@ -1,5 +1,6 @@
-TRELLO
+<h3>Trello</3>
 https://trello.com/invite/b/DEG1ZsOM/d12a598c79082e05bde5fcca01867ffc/proge
+
 <h4> Henry Lukk</h4> 
 <h4> Renet Einalo</h4> 
 <h4> Leonard Ladva</h4> 
