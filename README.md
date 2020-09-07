@@ -1,7 +1,7 @@
 <h3>Trello</3>
-https://trello.com/invite/b/DEG1ZsOM/d12a598c79082e05bde5fcca01867ffc/proge
+<p> https://trello.com/invite/b/DEG1ZsOM/d12a598c79082e05bde5fcca01867ffc/proge </p>
 <h3>GDrive</3>
-https://drive.google.com/drive/folders/1IQoqusdm2W_zHtCWzzdAfV--Bt0rDqV3?usp=sharing
+<p>https://drive.google.com/drive/folders/1IQoqusdm2W_zHtCWzzdAfV--Bt0rDqV3?usp=sharing </p>
 
 <h4> Henry Lukk</h4> 
 <p>Tegevusala: Kuidas logida sisse stuudiumisse ning saada sealt tekst</p>
