@@ -18,5 +18,9 @@
 
 Lahendus: Lugeda Stuudiumist iga päev ülesanded ning lisada need märkme- või kalendrirakendusse, esmalt valiksime Google Calendari sest see on laialdaselt kasutatav ning mugav.</p>
 
+UI Prototüüp:
+https://drive.google.com/file/d/1vYgwmn41I-4uA74cc4JOJxQAx4KY0cNu/view?usp=sharing
 
+Testlood:
+https://docs.google.com/document/d/1mXOLAVuy8lyAFiA9v_qmQPtzvJOKr4DPk-WmwNZgzoU/edit?usp=sharing
 
