@@ -3,13 +3,13 @@
 <h3>GDrive</3>
 <p>https://drive.google.com/drive/folders/1IQoqusdm2W_zHtCWzzdAfV--Bt0rDqV3?usp=sharing </p>
 
-<h4> Henry Lukk</h4> 
+<h4> Leonard Ladva</h4> 
 <p>Tegevusala: Kuidas logida sisse stuudiumisse ning saada sealt tekst</p>
 
 <h4> Renet Einalo</h4> 
 <p>Tegevusala: Kuidas luua Google Calendaris uus Task</p>
 
-<h4> Leonard Ladva</h4>
+<h4> Henry Lukk</h4>
 <p>Tegevusala: Kuidas Taski kirjutada salvestatud tekst ja salvestada Task</p>
 
 
