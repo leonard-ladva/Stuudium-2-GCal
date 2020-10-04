@@ -2,7 +2,7 @@
 <h2> Prototüüp </h2> 
 <h3>Stuudium 2 file.py</h3>
 <p>Fail loeb Stuudiumist ülesanded ning kirjutab need teisse faili mis ta ise loob. Failis on kommenteeritud, mis elemendid on kasutajapõhised ehk mida tuleb muuta.Peaks töötama õpilaste Stuudiumis, ei tea kuidas õpetajate stuudium välja näeb seega pole kindel kas töötab.
-\n</p>
+</p>
 <h4>Vajalikud moodulid:</h4>
 <ul>
 <li>bs4</li>
@@ -11,7 +11,7 @@
 </ul>
 
 <h3>Google.py</h3>
-<p>Veel ei tööta, kuid lisan siiski, et näha progressi. Praegu annab errori, et ürituse lõpu aeg on puudu. Selleks, et faili kasutada tuleb siit: https://developers.google.com/calendar/quickstart/python läbi teha esimesed 2 sammu.\n</p>
+<p>Veel ei tööta, kuid lisan siiski, et näha progressi. Praegu annab errori, et ürituse lõpu aeg on puudu. Selleks, et faili kasutada tuleb siit: https://developers.google.com/calendar/quickstart/python läbi teha esimesed 2 sammu.</p>
 
 <h4>Vajalikud moodulid:</h4>
 <ul>
@@ -35,7 +35,7 @@ Järgmiseks korraks on vaja teha Tkinteris:
 </ul>
 
 <h2> Lingid </h2> 
-<h3>Trello</3>
+<h5>Trello</h5>
 <p> https://trello.com/invite/b/DEG1ZsOM/d12a598c79082e05bde5fcca01867ffc/proge </p>
-<h3>GDrive</3>
+<h5>GDrive</h5>
 <p>https://drive.google.com/drive/folders/1IQoqusdm2W_zHtCWzzdAfV--Bt0rDqV3?usp=sharing </p>
