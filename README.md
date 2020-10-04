@@ -1,14 +1,8 @@
 <h1> Stuudiumist ülesannete kopeerimine Google Calendarisse </h1>
 <h2> Prototüüp </h2> 
 <h3>Stuudium 2 file.py</h3>
-Fail loeb Stuudiumist ülesanded ning kirjutab need teisse faili mis ta ise loob. Failis on kommenteeritud, mis elemendid on kasutajapõhised ehk mida tuleb muuta.
-
-<h5>TKinteris vajalikud arendused</h5>
-Järgmiseks korraks on vaja teha Tkinteris:
-<li>Teha nii, et "Show" nupule vajutades, prindib passwordi textboxis oleva info.</li>
-<li>Teha Stuudiumisse logimine.</li>
-<li>Teha "File" ja "Google Calendar" nupud töötavaks, ehk siis Failile vajutades teeb uue faili ja kopeerib sinna sisse, "Google Calendar"- ile vajutades viskab uude aknasse ja küsib Googlesse logimist.</li>
-
+<p>Fail loeb Stuudiumist ülesanded ning kirjutab need teisse faili mis ta ise loob. Failis on kommenteeritud, mis elemendid on kasutajapõhised ehk mida tuleb muuta.
+\n</p>
 <h4>Vajalikud moodulid:</h4>
 <ul>
 <li>bs4</li>
@@ -17,7 +11,7 @@ Järgmiseks korraks on vaja teha Tkinteris:
 </ul>
 
 <h3>Google.py</h3>
-Veel ei tööta, kuid lisan siiski, et näha progressi. Praegu annab errori, et ürituse lõpu aeg on puudu. Selleks, et faili kasutada tuleb siit: https://developers.google.com/calendar/quickstart/python läbi teha esimesed 2 sammu.
+<p>Veel ei tööta, kuid lisan siiski, et näha progressi. Praegu annab errori, et ürituse lõpu aeg on puudu. Selleks, et faili kasutada tuleb siit: https://developers.google.com/calendar/quickstart/python läbi teha esimesed 2 sammu.\n</p>
 
 <h4>Vajalikud moodulid:</h4>
 <ul>
@@ -30,6 +24,14 @@ Veel ei tööta, kuid lisan siiski, et näha progressi. Praegu annab errori, et 
 <li>google.auth.transport.requests</li>
 <li>csv</li>
 <li>logging</li>
+</ul>
+
+<h3>TKinteris vajalikud arendused</h3>
+Järgmiseks korraks on vaja teha Tkinteris:
+<ul>
+<li>Teha nii, et "Show" nupule vajutades, prindib passwordi textboxis oleva info.</li>
+<li>Teha Stuudiumisse logimine.</li>
+<li>Teha "File" ja "Google Calendar" nupud töötavaks, ehk siis Failile vajutades teeb uue faili ja kopeerib sinna sisse, "Google Calendar"- ile vajutades viskab uude aknasse ja küsib Googlesse logimist.</li>
 </ul>
 
 <h2> Lingid </h2> 
