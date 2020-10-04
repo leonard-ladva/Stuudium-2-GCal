@@ -4,24 +4,27 @@
 Fail loeb Stuudiumist ülesanded ning kirjutab need teisse faili mis ta ise loob. Failis on kommenteeritud, mis elemendid on kasutajapõhised ehk mida tuleb muuta.
 
 Vajalikud moodulid:
-bs4
-requests
-csv
+<ul>
+<li>bs4</li>
+<li>requests</li>
+<li>csv</li>
+</ul>
 
 <h3>Google.py</h3>
 Veel ei tööta, kuid lisan siiski, et näha progressi. Praegu annab errori, et ürituse lõpu aeg on puudu. Selleks, et faili kasutada tuleb siit: https://developers.google.com/calendar/quickstart/python läbi teha esimesed 2 sammu.
 
 Vajalikud moodulid:
- __future__ 
-datetime
-pickle
-os.path
-googleapiclient.discovery
-google_auth_oauthlib.flow
-google.auth.transport.requests
-csv
-logging
-
+<ul>
+<li>__future__</li>
+<li>datetime</li>
+<li>pickle</li>
+<li>os.path</li>
+<li>googleapiclient.discovery</li>
+<li>google_auth_oauthlib.flow</li>
+<li>google.auth.transport.requests</li>
+<li>csv</li>
+<li>logging</li>
+</ul>
 
 
 <h3>Trello</3>
