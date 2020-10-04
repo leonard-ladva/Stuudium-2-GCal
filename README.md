@@ -26,7 +26,7 @@ Veel ei tööta, kuid lisan siiski, et näha progressi. Praegu annab errori, et 
 <li>logging</li>
 </ul>
 
-
+<h2> Lingid </h2> 
 <h3>Trello</3>
 <p> https://trello.com/invite/b/DEG1ZsOM/d12a598c79082e05bde5fcca01867ffc/proge </p>
 <h3>GDrive</3>
