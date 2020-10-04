@@ -5,9 +5,9 @@ Fail loeb Stuudiumist ülesanded ning kirjutab need teisse faili mis ta ise loob
 
 <h5>TKinteris vajalikud arendused</h5>
 Järgmiseks korraks on vaja teha Tkinteris:
-<li>1. Teha nii, et "Show" nupule vajutades, prindib passwordi textboxis oleva info.</li>
-<li>2. Teha Stuudiumisse logimine.</li>
-<li>3. Teha "File" ja "Google Calendar" nupud töötavaks, ehk siis Failile vajutades teeb uue faili ja kopeerib sinna sisse, "Google Calendar"- ile vajutades viskab uude aknasse ja küsib Googlesse logimist.</li>
+<li>Teha nii, et "Show" nupule vajutades, prindib passwordi textboxis oleva info.</li>
+<li>Teha Stuudiumisse logimine.</li>
+<li>Teha "File" ja "Google Calendar" nupud töötavaks, ehk siis Failile vajutades teeb uue faili ja kopeerib sinna sisse, "Google Calendar"- ile vajutades viskab uude aknasse ja küsib Googlesse logimist.</li>
 
 <h4>Vajalikud moodulid:</h4>
 <ul>
