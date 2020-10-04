@@ -1,7 +1,7 @@
 <h1> Stuudiumist ülesannete kopeerimine Google Calendarisse </h1>
 <h2> Prototüüp </h2> 
 <h3>Stuudium 2 file.py</h3>
-<p>Fail loeb Stuudiumist ülesanded ning kirjutab need teisse faili mis ta ise loob. Failis on kommenteeritud, mis elemendid on kasutajapõhised ehk mida tuleb muuta.
+<p>Fail loeb Stuudiumist ülesanded ning kirjutab need teisse faili mis ta ise loob. Failis on kommenteeritud, mis elemendid on kasutajapõhised ehk mida tuleb muuta.Peaks töötama õpilaste Stuudiumis, ei tea kuidas õpetajate stuudium välja näeb seega pole kindel kas töötab.
 \n</p>
 <h4>Vajalikud moodulid:</h4>
 <ul>
@@ -26,7 +26,7 @@
 <li>logging</li>
 </ul>
 
-<h3>TKinteris vajalikud arendused</h3>
+<h3>TKinteris vajalikud arendused - aken.py ja proov.py</h3>
 Järgmiseks korraks on vaja teha Tkinteris:
 <ul>
 <li>Teha nii, et "Show" nupule vajutades, prindib passwordi textboxis oleva info.</li>
