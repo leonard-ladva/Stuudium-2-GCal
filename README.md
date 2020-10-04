@@ -7,10 +7,10 @@
 <h3>GDrive</3>
 <p>https://drive.google.com/drive/folders/1IQoqusdm2W_zHtCWzzdAfV--Bt0rDqV3?usp=sharing </p>
 
-UI Prototüüp:
+<h3>UI Prototüüp:</h3>
 https://drive.google.com/file/d/1vYgwmn41I-4uA74cc4JOJxQAx4KY0cNu/view?usp=sharing
 
-Testlood:
+<h3>Testlood:</h3>
 https://docs.google.com/document/d/1mXOLAVuy8lyAFiA9v_qmQPtzvJOKr4DPk-WmwNZgzoU/edit?usp=sharing
 
 <h4> Liikmed </h4> 
