@@ -1,4 +1,26 @@
-<h4> Stuudiumist ülesannete kopeerimine Google Calendarisse </h4>
+<h1> Stuudiumist ülesannete kopeerimine Google Calendarisse </h1>
+<h2> Prototüüp </h2> 
+<h3>Stuudium 2 file.py</h3>
+Fail loeb Stuudiumist ülesanded ning kirjutab need teisse faili mis ta ise loob. Failis on kommenteeritud, mis elemendid on kasutajapõhised ehk mida tuleb muuta.
+
+Vajalikud moodulid:
+bs4
+requests
+csv
+
+<h3>Google.py</h3>
+Veel ei tööta, kuid lisan siiski, et näha progressi. Praegu annab errori, et ürituse lõpu aeg on puudu. Selleks, et faili kasutada tuleb siit: https://developers.google.com/calendar/quickstart/python läbi teha esimesed 2 sammu.
+
+Vajalikud moodulid:
+ __future__ 
+datetime
+pickle
+os.path
+googleapiclient.discovery
+google_auth_oauthlib.flow
+google.auth.transport.requests
+csv
+logging
 
 
 
