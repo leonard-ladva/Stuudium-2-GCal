@@ -10,7 +10,7 @@
 <li>csv</li>
 </ul>
 
-<h3>Google.py</h3>
+<h3>Fail 2 GCal.py</h3>
 <p>Veel ei tööta, kuid lisan siiski, et näha progressi. Praegu annab errori, et ürituse lõpu aeg on puudu. Selleks, et faili kasutada tuleb siit: https://developers.google.com/calendar/quickstart/python läbi teha esimesed 2 sammu.</p>
 
 <h4>Vajalikud moodulid:</h4>
