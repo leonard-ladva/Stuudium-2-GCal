@@ -99,7 +99,7 @@ class MyWindow(QMainWindow):
                 self.sisend2.setText(rida[1])
             andmed.close()
         except IOError:
-            print('no file')
+            print('Pole salvestatud andmeid')
 
     def show_password(self):
         if self.button1.isChecked():
