@@ -31,3 +31,5 @@
 <h4>4. Chrome ja ChromeDriver</h4>
   Sul peab olema installitud <a href='https://www.google.com/chrome/'>Google Chrome brauser</a> ja <a href='https://chromedriver.chromium.org/downloads'>ChromeDriver</a>. ChromeDriver peab asuma õiges kaustas- Macil on selleks kaustaks '/usr/local/bin', Windowsil kasutamiseks järgi <a href='https://www.youtube.com/watch?v=dz59GsdvUF8'>seda videot</a>.
   
+<h3> Failid </h3>
+Programmiga käivad kaasas kaks pilti: eye.png ja taust.png, need on GUI illustreerimiseks, lae need alla ja aseta samasse kasuta kus programmi fail.
