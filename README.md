@@ -33,3 +33,6 @@
   
 <h3> Failid </h3>
 Programmiga käivad kaasas kaks pilti: eye.png ja taust.png, need on GUI illustreerimiseks, lae need alla ja aseta samasse kasuta kus programmi fail.
+
+<h4>5. Thonnyga avamisel</h4>
+
