@@ -40,4 +40,4 @@ Programmiga käivad kaasas kaks pilti: eye.png ja taust.png, need on GUI illustr
  <li>Vajuta "Options" Tools menüüst</li>
  <li>Vajuta "Interpreter"</li>
  <li>Vali nimekirjast "Alternative Python 3 Interpreter or environment"</li>
- <li>Nimekirjast, mist tekkis vali "Python 3", kui python 3 on mitu, siis vali üks ning katseta, kas programm töötab, kui ei, vali teine</li>
+ <li>Nimekirjast, mis tekkis vali "Python 3", kui python 3 on mitu, siis vali üks ning katseta, kas programm töötab, kui ei, vali teine</li>
