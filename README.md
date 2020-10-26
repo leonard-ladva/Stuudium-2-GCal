@@ -41,3 +41,6 @@
  
  <h3> Failid </h3>
 Programmiga käivad kaasas kaks pilti: eye.png ja taust.png, need on GUI illustreerimiseks, lae need alla ja aseta samasse kasuta kus programmi fail.
+
+ <h3> Trello </h3>
+https://trello.com/b/DEG1ZsOM/proge
