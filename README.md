@@ -29,7 +29,7 @@
   
 </ul>
 <h4>4. Chrome ja ChromeDriver</h4>
-  Sul peab olema installitud <a href='https://www.google.com/chrome/'>Google Chrome brauser</a> ja <a href='https://chromedriver.chromium.org/downloads'>ChromeDriver</a>. ChromeDriver peab asuma õiges kaustas- Macil on selleks kaustaks '/usr/local/bin', Windowsil kasutamiseks järgi <a href='https://www.youtube.com/watch?v=dz59GsdvUF8'>seda videot</a>.
+  Sul peab olema installitud <a href='https://www.google.com/chrome/'>Google Chrome brauser</a> ja <a href='https://chromedriver.chromium.org/downloads'>ChromeDriver</a>. Chromedriver-it on kõige lihtsam installida package manager-iga. Macil ja Linuxil installi <a href" ">Homebrew</a>, peale installimist ava terminali aken ja sisesta <code>brew cask install chromedriver</code>. Windowsil installi <a href" ">Chocolatey</a>, peale installimist ava cmd ja sisesta <code>choco install chromedriver</code>.
 
 <h4>5. Thonnyga avamisel</h4>
  <li>Ava Thonny</li>
