@@ -1,4 +1,4 @@
-<h2>Stuudium to Google Calendar.py on lihtne püütonis kirjutatud GUI programm, mis leiab Stuudiumist kõik ülesanded(mis pole tehtuks märgitud) ning lisab need eraldi üritustena Google Kalendrisse.</h2>
+<h2>Stuudium to Google Calendar.py on python GUI programm, mis leiab Stuudiumist kõik ülesanded(mis pole tehtuks märgitud) ning lisab need eraldi üritustena Google Kalendrisse.</h2>
 
 <h3>Kuidas Kasutada</h3>
 <h4>1. PIP installitud</h4>
