@@ -1,8 +1,8 @@
-<h2>Stuudium to Google Calendar.py on python GUI programm, mis leiab Stuudiumist kõik ülesanded(mis pole tehtuks märgitud) ning lisab need eraldi üritustena Google Kalendrisse.</h2>
+<h2>Stuudium-2-GCal on GUI programm, mis leiab Stuudiumist kõik tegemata ülesanded ning lisab need üritustena Google Kalendrisse.</h2>
 
 <h3>Kuidas Kasutada</h3>
 <h4>1. PIP installitud</h4>
-  Sul peab olema PIP installitud, et sa saaksid installida kõiki vajalike püütoni mooduleid.
+  PIP on vajalik püütoni moodulite installimiseks.
 <a href='https://www.makeuseof.com/tag/install-pip-for-python/'>Siit lingilt</a> leiad kuidas installida PIP Windowsil, Macil ja Linuxil.
 <h4>2. Google Calendar API sisse lülitatud</h4>
   Sul peab olema Google Calendar API sisse lülitatud selle Google'i konto peal kuhu sa tahad, et üritused tekiksid
