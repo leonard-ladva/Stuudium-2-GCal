@@ -38,9 +38,3 @@
  <li>Vajuta "Interpreter"</li>
  <li>Vali nimekirjast "Alternative Python 3 Interpreter or environment"</li>
  <li>Nimekirjast, mis tekkis vali "Python 3", kui python 3 on mitu, siis vali üks ning katseta, kas programm töötab, kui ei, vali teine</li>
- 
- <h3> Failid </h3>
-Programmiga käivad kaasas kaks pilti: eye.png ja taust.png, need on GUI illustreerimiseks, lae need alla ja aseta samasse kasuta kus programmi fail.
-
- <h3> Trello </h3>
-https://trello.com/b/DEG1ZsOM/proge
