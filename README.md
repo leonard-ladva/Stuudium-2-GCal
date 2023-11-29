@@ -1,4 +1,6 @@
-# Stuudium-2-GCal adds all undone tasks in Stuudium as events in Google Calendar
+# Stuudium-2-GCal
+Stuudium-2-GCal adds all undone tasks in Stuudium as events in Google Calendar
+<img width="612" alt="Screenshot 2023-11-29 at 14 33 07" src="https://github.com/leonard-ladva/Stuudium-2-GCal/assets/65786723/ff46fca3-d670-4c79-b8a8-04cf7eb94f89">
 
 ## This repo is not updated anymore, most likely it will not function as intended
 [Stuudium](https://www.stuudium.com) is an Estonian eSchool platform.
